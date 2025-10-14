@@ -3,4 +3,4 @@ _pycache_/
 *.pyc
 .DS_Store
 tmp_shared/
-reports/
+reports/git push -u origin main
